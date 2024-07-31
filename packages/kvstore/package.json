@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "@nangohq/utils": "file:../utils",
-        "redis": "4.6.13"
+        "redis": "4.6.15"
     },
     "devDependencies": {
         "vitest": "1.6.0"
