@@ -25,7 +25,7 @@
         "axios": "^1.2.0",
         "botbuilder": "^4.22.3",
         "connect-timeout": "^1.9.0",
-        "dd-trace": "5.2.0",
+        "dd-trace": "5.17.0",
         "express": "^4.19.2",
         "superjson": "^2.2.1",
         "undici": "6.12.0",
